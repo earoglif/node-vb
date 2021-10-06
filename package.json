@@ -1,0 +1,22 @@
+{
+  "name": "node-vb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/earoglif/node-vb.git"
+  },
+  "author": "earoglif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/earoglif/node-vb/issues"
+  },
+  "homepage": "https://github.com/earoglif/node-vb#readme",
+  "dependencies": {
+    "virtualbox": "^1.1.2"
+  }
+}
